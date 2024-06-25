@@ -1,1 +1,1 @@
-This repository contains basics and advanced programming of python
+This repository contains basics programming of python
